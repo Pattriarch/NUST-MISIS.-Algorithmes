@@ -1,3 +1,5 @@
+<div class="problem-statement">
+   <div class="header">
       <h1 class="title">B. DM Algos. Путь в графе</h1>
       <table>
          <thead>
